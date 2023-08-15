@@ -14,6 +14,7 @@
 #include <limits>
 #include <string>
 #include <utility>
+#include <cstdint>
 
 #include "util/util.h"
 #include "util/flags.h"
